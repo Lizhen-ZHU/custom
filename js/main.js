@@ -631,7 +631,7 @@ function initDefaults() {
 	{
 		locale="es";
 	}
-	document.querySelector('#lang_'+locale+'>a').removeAttribute('href');
+	//document.querySelector('#lang_'+locale+'>a').removeAttribute('href');
 
 	// setting selected menus
 	$("#campanya").addClass("selected");
