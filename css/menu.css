@@ -20,6 +20,11 @@ ul
 	margin: 0px;
 	list-style:none;
 }
+
+#main_nav{
+	display:none;
+
+}
 /* PRELOADER **********************************************************/
 #qLoverlay
 {
